@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section{
+  color: blue;
+}
+
+h1{
+  color: red;
+}
+
+/* ereditarietà: elementi ereditano colore dal padre a meno che non si specificano altre proprietà*/
