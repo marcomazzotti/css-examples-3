@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div.starred{
+  background-color: lightcoral;
+}
+
+/* div che ha classe starred */
+
+div .paragraph{
+  background-color: lightblue;
+}
+
+ /* elemento con classe paragrafo che sta nel div */
+
+ /* > maggiore indica figlio diretto */
