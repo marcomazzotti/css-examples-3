@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.child{
+  margin: 10px 0;
+}
+
+.parent{
+  margin: 10px 0;
+}
+
+/* margini in verticale tra fratelli non si sommano, il più grande assorbe il più piccolo in orizzontale si sommano */
+/* tra padre e figlio vinconono i margini del padre (esterni) se sono uguali, altrimenti se marigni figlio > margini padre vincono loro */
